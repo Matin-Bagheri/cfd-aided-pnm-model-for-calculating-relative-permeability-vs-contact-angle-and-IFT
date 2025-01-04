@@ -1,0 +1,1 @@
+# cfd-aided-pnm-model-for-calculating-relative-permeability-vs-contact-angle-and-IFT
